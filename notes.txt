@@ -1,0 +1,1 @@
+makes files (index.html, in-stock.html, info.html)
